@@ -1,4 +1,4 @@
-Hi i'm Rodrigo Amarilla, im a Frontend Junior Developer. Welcome to my portfolio! ⌨️🖱️📚💻
+Hi i'm Rodrigo Amarilla, i'm a Frontend Junior Developer. Welcome to my portfolio! ⌨️🖱️📚💻
  
 <!--
 **rodriAmarilla/rodriAmarilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
